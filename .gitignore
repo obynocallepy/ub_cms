@@ -1,0 +1,26 @@
+# Ignore the vendor directory
+/vendor/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.php~
+
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore other files
+npm-debug.log*
+yarn-error.log
+university-cms (4).zip
